@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8421b107-66e8-4e15-a567-3b21b6d2ffc3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_play_button_TestDisplay_test_init_play_display.coverage" NAME="Unittests for test_play_button.TestDisplay.test_init_play_display Coverage Results" MODIFIED="1544291812618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/chapter_14_HER$setup.coverage" NAME="setup Coverage Results" MODIFIED="1542818177998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_display_TestDisplay_test_init_score_color.coverage" NAME="Unittests for test_display.TestDisplay.test_init_score_color Coverage Results" MODIFIED="1544291144992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_bullets_TestBullets_test_update.coverage" NAME="Unittests for test_bullets.TestBullets.test_update Coverage Results" MODIFIED="1544395780138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/chapter_14$ship.coverage" NAME="ship Coverage Results" MODIFIED="1537832408144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_display_TestDisplay_test_init_score.coverage" NAME="Unittests for test_display.TestDisplay.test_init_score Coverage Results" MODIFIED="1544290291114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_play_button_TestPlayButton_test_init_play_display.coverage" NAME="Unittests for test_play_button.TestPlayButton.test_init_play_display Coverage Results" MODIFIED="1544291884178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$zombie_build.coverage" NAME="zombie_build Coverage Results" MODIFIED="1542832202524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter_14_HER$button.coverage" NAME="button Coverage Results" MODIFIED="1541473328313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_display_TestDisplay_test_init_score_level.coverage" NAME="Unittests for test_display.TestDisplay.test_init_score_level Coverage Results" MODIFIED="1544291253924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$zombie_invasion.coverage" NAME="zombie_invasion Coverage Results" MODIFIED="1544400971018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter_14$bullet.coverage" NAME="bullet Coverage Results" MODIFIED="1538436655202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_zombies_TestZombies.coverage" NAME="Unittests for test_zombies.TestZombies Coverage Results" MODIFIED="1544146410918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/chapter_14$alien.coverage" NAME="alien Coverage Results" MODIFIED="1538435951096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_methods_TestMethods.coverage" NAME="Unittests for test_methods.TestMethods Coverage Results" MODIFIED="1544146404009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_in_tests_shooter_py.coverage" NAME="Unittests in tests_shooter.py Coverage Results" MODIFIED="1544145487109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_bullets_TestBullets.coverage" NAME="Unittests for test_bullets.TestBullets Coverage Results" MODIFIED="1544397544321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zombie_invasion" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_bullets_TestZombies.coverage" NAME="Unittests for test_bullets.TestZombies Coverage Results" MODIFIED="1544146394845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/chapter_14$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1540065794804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter_14_HER$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1542819966488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$zombie_invasion__1_.coverage" NAME="zombie_invasion (1) Coverage Results" MODIFIED="1544145225250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_in_test_bullets_py.coverage" NAME="Unittests in test_bullets.py Coverage Results" MODIFIED="1544395818499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_tests_shooter_TestShooter.coverage" NAME="Unittests for tests_shooter.TestShooter Coverage Results" MODIFIED="1544397443127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zombie_invasion" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_display_TestDisplay_test_init_score_lives.coverage" NAME="Unittests for test_display.TestDisplay.test_init_score_lives Coverage Results" MODIFIED="1544291741042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_display_TestDisplay_test_init_score_position.coverage" NAME="Unittests for test_display.TestDisplay.test_init_score_position Coverage Results" MODIFIED="1544405043857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_methods_TestMethods_test_check_for_win.coverage" NAME="Unittests for test_methods.TestMethods.test_check_for_win Coverage Results" MODIFIED="1544295925376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_bullets_TestZombies_test_update.coverage" NAME="Unittests for test_bullets.TestZombies.test_update Coverage Results" MODIFIED="1544145371073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/ZombieInvasion$Unittests_for_test_methods_TestMethods_test_remove_bullets.coverage" NAME="Unittests for test_methods.TestMethods.test_remove_bullets Coverage Results" MODIFIED="1544395994751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/chapter_14_HER$zombie_invasion.coverage" NAME="zombie_invasion Coverage Results" MODIFIED="1542823630025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="952449437">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JavaScript-modules-diagram//Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14" value="1" />
+          <entry key="JavaScript-modules-diagram//Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14/figures;/Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14/images;" value="1" />
+          <entry key="py" value="21" />
+          <entry key="uml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="10" />
+          <entry key="UML" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="98" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="98" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="1506255458">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="13" />
+          <entry key="py" value="6048" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="6048" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="100932240">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Python/#/Users/hannahroach/Desktop/ZombieGame/chapter_14_HER/zombie_package" value="1" />
+          <entry key="dmg" value="1" />
+          <entry key="py" value="59" />
+          <entry key="zombie_invasion" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="60" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="109" />
+          <entry key="py" value="13887" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="109" />
+          <entry key="Python" value="13887" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="1163679311">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="469" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="469" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-998090701">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JavaScript-modules-diagram//Users/hannahroach/Desktop/software-engineering-capstone/ZombieGame/ZombieInvasion 2/zombie_package" value="1" />
+          <entry key="Python/#/Users/hannahroach/Desktop/software-engineering-capstone/ZombieGame/ZombieInvasion 2/zombie_package" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="UML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="15" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="585232789">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Python/#/Users/hannahroach/Desktop/ZombieInvasion/zombie_package" value="2" />
+          <entry key="py" value="6" />
+          <entry key="spec" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="6" />
+          <entry key="UML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="14" />
+          <entry key="py" value="4185" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="4185" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-916494844">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1061509151">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="319" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="319" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1768987114">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="110" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="110" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="54" />
+          <entry key="py" value="2225" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="54" />
+          <entry key="Python" value="2225" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1442081033">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="605" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="605" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="26" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="chapter_14_HER" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zombie_invasion/zombie_invasion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zombie_invasion/methods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zombie_invasion/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_display.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="53" column="12" lean-forward="true" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alien</find>
+      <find>shooter_speed</find>
+      <find>points</find>
+      <find>ai_</find>
+      <find>fire</find>
+      <find>level</find>
+      <find>groupcollide</find>
+      <find>bullet_color</find>
+      <find>random</find>
+      <find>ship</find>
+      <find>InitScore</find>
+      <find>Level</find>
+      <find>Level(</find>
+      <find>Play</find>
+      <find>liv</find>
+      <find>msg</find>
+      <find>codec</find>
+      <find>zombie_package.</find>
+      <find>number_of_mega_bullets</find>
+      <find>settings.setting</find>
+      <find>pla</find>
+      <find>mega</find>
+      <find>print</find>
+      <find>scre</find>
+      <find>bullets.</find>
+      <find>Bullet</find>
+      <find>.Bullets</find>
+      <find>.Bullet</find>
+      <find>bul.</find>
+      <find>G</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bullet.py" />
+        <option value="$PROJECT_DIR$/shooter.py" />
+        <option value="$PROJECT_DIR$/stats.py" />
+        <option value="$PROJECT_DIR$/pointsdisplay.py" />
+        <option value="$PROJECT_DIR$/zombie.py" />
+        <option value="$PROJECT_DIR$/playbutton.py" />
+        <option value="$PROJECT_DIR$/methods.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/zombie_package/zombie_build.py" />
+        <option value="$PROJECT_DIR$/zombie_build.py" />
+        <option value="$PROJECT_DIR$/zombie_package/__init__.py" />
+        <option value="$PROJECT_DIR$/zombie_package/bullet.py" />
+        <option value="$PROJECT_DIR$/zombie_package/methods.py" />
+        <option value="$PROJECT_DIR$/zombie_package/playbutton.py" />
+        <option value="$PROJECT_DIR$/zombie_package/pointsdisplay.py" />
+        <option value="$PROJECT_DIR$/zombie_package/settings.py" />
+        <option value="$PROJECT_DIR$/zombie_package/shooter.py" />
+        <option value="$PROJECT_DIR$/zombie_package/stats.py" />
+        <option value="$PROJECT_DIR$/zombie_package/zombie.py" />
+        <option value="$PROJECT_DIR$/zombie_package/zombie_invasion.py" />
+        <option value="$PROJECT_DIR$/tests/env.py" />
+        <option value="$PROJECT_DIR$/tests/setup.py" />
+        <option value="$PROJECT_DIR$/tests/test_points_display.py" />
+        <option value="$PROJECT_DIR$/tests/stats_test.py" />
+        <option value="$PROJECT_DIR$/tests/test_stats.py" />
+        <option value="$PROJECT_DIR$/tests/test_bullets.py" />
+        <option value="$PROJECT_DIR$/tests/test_play_button.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/zombie.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/stats.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/shooter.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/playbutton.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/pointsdisplay.py" />
+        <option value="$PROJECT_DIR$/tests/__init__.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/bullet.py" />
+        <option value="$PROJECT_DIR$/tests/test_methods.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/test_methods.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/test_zombies.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/test_play_button.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/test_display.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/test_bullets.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/tests_shooter.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/__init__.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/tests/test_bullets.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/tests/test_display.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/tests/test_methods.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/methods.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/settings.py" />
+        <option value="$PROJECT_DIR$/tests/test_display.py" />
+        <option value="$PROJECT_DIR$/zombie_invasion/zombie_invasion.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1415" />
+    <option name="y" value="-583" />
+    <option name="width" value="1581" />
+    <option name="height" value="958" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ZombieInvasion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZombieInvasion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZombieInvasion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZombieInvasion" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZombieInvasion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZombieInvasion" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZombieInvasion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZombieInvasion" type="462c0819:PsiDirectoryNode" />
+              <item name="zombie_invasion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZombieInvasion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="" module-name="chapter_14" sdk-home="/usr/local/bin/python3.7" working-directory="$PROJECT_DIR$">
+        <option name="useSoftWraps" value="true" />
+        <option name="myCustomStartScript" value="" />
+        <option name="mySdkHome" value="/usr/local/bin/python3.7" />
+        <option name="myModuleName" value="chapter_14" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zombie_invasion/tests" />
+      <recent name="$PROJECT_DIR$/zombie_invasion" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/zombie_package1" />
+      <recent name="$PROJECT_DIR$/zombie_package" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zombie_invasion" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/zombie_package" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_display.TestDisplay.test_init_score_position">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ZombieInvasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zombie_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ZombieInvasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zombie_invasion/zombie_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_display.TestDisplay.test_init_score_position" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ZombieInvasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_display.TestDisplay.test_init_score_position&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for zombie_invasion.tests.test_bullets.TestBullets" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ZombieInvasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zombie_invasion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;zombie_invasion.tests.test_bullets.TestBullets&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for zombie_invasion.tests.test_methods.TestMethods.test_remove_bullets" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ZombieInvasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;zombie_invasion.tests.test_methods.TestMethods.test_remove_bullets&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for zombie_invasion.tests.tests_shooter.TestShooter" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ZombieInvasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zombie_invasion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;zombie_invasion.tests.tests_shooter.TestShooter&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.zombie_invasion" />
+      <item itemvalue="Python tests.Unittests for zombie_invasion.tests.test_methods.TestMethods.test_remove_bullets" />
+      <item itemvalue="Python tests.Unittests for zombie_invasion.tests.tests_shooter.TestShooter" />
+      <item itemvalue="Python tests.Unittests for zombie_invasion.tests.test_bullets.TestBullets" />
+      <item itemvalue="Python tests.Unittests for test_display.TestDisplay.test_init_score_position" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_display.TestDisplay.test_init_score_position" />
+        <item itemvalue="Python.zombie_invasion" />
+        <item itemvalue="Python tests.Unittests for zombie_invasion.tests.test_bullets.TestBullets" />
+        <item itemvalue="Python tests.Unittests for zombie_invasion.tests.tests_shooter.TestShooter" />
+        <item itemvalue="Python tests.Unittests for zombie_invasion.tests.test_methods.TestMethods.test_remove_bullets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8421b107-66e8-4e15-a567-3b21b6d2ffc3" name="Default Changelist" comment="" />
+      <created>1537828421385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537828421385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_bullets_TestBullets_test_update - 2018.12.09 at 15h 48m 49s.xml">
+      <configuration name="Unittests for test_bullets.TestBullets.test_update" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_bullets_TestBullets_test_update - 2018.12.09 at 15h 49m 32s.xml">
+      <configuration name="Unittests for test_bullets.TestBullets.test_update" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_bullets_TestBullets_test_update - 2018.12.09 at 15h 49m 42s.xml">
+      <configuration name="Unittests for test_bullets.TestBullets.test_update" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_bullets_py - 2018.12.09 at 15h 50m 23s.xml">
+      <configuration name="Unittests in test_bullets.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_methods_TestMethods_test_remove_bullets - 2018.12.09 at 15h 53m 18s.xml">
+      <configuration name="Unittests for test_methods.TestMethods.test_remove_bullets" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tests_shooter_TestShooter - 2018.12.09 at 16h 11m 14s.xml">
+      <configuration name="Unittests for tests_shooter.TestShooter" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tests_shooter_TestShooter - 2018.12.09 at 16h 17m 23s.xml">
+      <configuration name="Unittests for tests_shooter.TestShooter" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_bullets_TestBullets - 2018.12.09 at 16h 19m 05s.xml">
+      <configuration name="Unittests for test_bullets.TestBullets" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_display_TestDisplay_test_init_score_position - 2018.12.09 at 17h 16m 56s.xml">
+      <configuration name="Unittests for test_display.TestDisplay.test_init_score_position" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_display_TestDisplay_test_init_score_position - 2018.12.09 at 18h 24m 05s.xml">
+      <configuration name="Unittests for test_display.TestDisplay.test_init_score_position" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1415" y="-583" width="1581" height="958" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848944" visible="true" weight="0.34437945" />
+      <window_info id="Structure" order="1" sideWeight="0.50151056" side_tool="true" weight="0.17571884" />
+      <window_info id="Favorites" order="2" sideWeight="0.50151056" side_tool="true" weight="0.17571884" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" visible="true" weight="0.32522798" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49201277" weight="0.2004745" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39745402" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928064" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5079872" side_tool="true" weight="0.36676797" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32928064" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32928064" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" sideWeight="0.49946752" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49848944" visible="true" weight="0.11821086" />
+      <window_info id="Structure" order="1" sideWeight="0.50151056" side_tool="true" weight="0.17571884" />
+      <window_info id="Favorites" order="2" sideWeight="0.50151056" side_tool="true" weight="0.17571884" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.32522798" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49201277" visible="true" weight="0.32320163" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39864865" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928064" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5079872" side_tool="true" weight="0.36676797" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32928064" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32928064" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" sideWeight="0.49946752" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://Python/#/Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14/bullet.py" />
+    <entry file="uml://Python/#/Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14/alien.py" />
+    <entry file="uml://Python/#/Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14/alien_invasion.py" />
+    <entry file="uml://Python/#/Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14/game_functions.py" />
+    <entry file="uml://Python/#/Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14/game_stats.py" />
+    <entry file="uml://Python/#/Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14/scoreboard.py" />
+    <entry file="uml://Python/#/Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14/settings.py" />
+    <entry file="uml://Python/#/Users/hannahroach/Desktop/ehmatthes-pcc-f555082/chapter_14/ship.py" />
+    <entry file="file://$PROJECT_DIR$/alien_invasion.uml" />
+    <entry file="file://$PROJECT_DIR$/aliensLeft.py" />
+    <entry file="file://$PROJECT_DIR$/alienLeft.py" />
+    <entry file="file://$PROJECT_DIR$/alienTop.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1625016946/pygame/draw.py" />
+    <entry file="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pygame/sprite.py" />
+    <entry file="file://$PROJECT_DIR$/gameOver.py" />
+    <entry file="file://$PROJECT_DIR$/build/exe.macosx-10.13-x86_64-3.7/zombie_invasion" />
+    <entry file="file://$PROJECT_DIR$/build/exe.macosx-10.13-x86_64-3.7/YASS.dmg" />
+    <entry file="file://$PROJECT_DIR$/zombie_package/setup.py" />
+    <entry file="uml://JavaScript-modules-diagram//Users/hannahroach/Desktop/software-engineering-capstone/ZombieGame/ZombieInvasion 2/zombie_package" />
+    <entry file="uml://Python/#/Users/hannahroach/Desktop/software-engineering-capstone/ZombieGame/ZombieInvasion 2/zombie_package" />
+    <entry file="uml://Python/#/Users/hannahroach/Desktop/ZombieInvasion/zombie_package" />
+    <entry file="file://$PROJECT_DIR$/zombie_build.py" />
+    <entry file="file://$PROJECT_DIR$/zombie_build.spec" />
+    <entry file="file://$PROJECT_DIR$/tests/env.py" />
+    <entry file="file://$PROJECT_DIR$/tests/setup.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_zombies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests_shooter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_points_display.py" />
+    <entry file="file://$PROJECT_DIR$/tests/test_stats.py" />
+    <entry file="file://$PROJECT_DIR$/tests/test_play_button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/tests/test_bullets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/shooter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/playbutton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/zombie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/pointsdisplay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/tests/test_play_button.py" />
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/tests/tests_shooter.py" />
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/tests/test_zombies.py" />
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/tests/test_methods.py" />
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/tests/test_display.py" />
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/tests/test_bullets.py" />
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/bullet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_display.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="53" column="12" lean-forward="true" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie_invasion/zombie_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
